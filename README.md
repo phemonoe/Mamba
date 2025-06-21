@@ -1,6 +1,6 @@
 # 🃏 Poker Analyzer
 
-A real-time AI-powered poker strategy assistant built with **Tauri** and **React**. Take screenshots of your poker tables and get instant strategic advice from GPT-4o.
+A real-time AI-powered poker strategy assistant built with **Tauri** and **React**. Take screenshots of your poker tables and get instant strategic advice from GPT-4.1-nano (or any model you want).
 
 ## ✨ Features
 
